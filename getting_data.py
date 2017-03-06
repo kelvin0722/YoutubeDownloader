@@ -1,7 +1,8 @@
-import pafy
+#!usr/bin/env python
+import  pafy
 url = "https://www.youtube.com/watch?v=Z9eMk051dYg"
 myvid = pafy.new(url)
-path = "/Users/Badmind/Downloads"
+path = "/home/kelvin/youtube_downloads"
  
 print(myvid.viewcount)
 
