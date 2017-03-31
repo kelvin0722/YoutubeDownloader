@@ -1,4 +1,4 @@
-#!usr/bin/env python
+#!youtubeenv/bin python
 import  pafy
 url = "https://www.youtube.com/watch?v=Z9eMk051dYg"
 myvid = pafy.new(url)

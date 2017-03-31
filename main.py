@@ -1,4 +1,4 @@
-#!usr/bin/env python
+#!youtubeenv/bin/env python
 import sys
 import  pafy
 from PyQt4 import QtCore, QtGui, uic
